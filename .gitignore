@@ -1,0 +1,11 @@
+/build/
+/sub-1/sub-a/common/build/
+/sub-1/common/build/
+/sub-1/sub-a/other/build/
+/sub-1/sub-a/common/src/main/java/com/fhw/util/Bean.java
+/.gradle/2.2.1/taskArtifacts/fileHashes.bin
+/.gradle/2.2.1/taskArtifacts/cache.properties.lock
+/.gradle/2.2.1/taskArtifacts/cache.properties
+/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin
+/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin
+/.gradle/2.2.1/taskArtifacts/outputFileStates.bin

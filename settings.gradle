@@ -1,0 +1,4 @@
+rootProject.name = 'Submarine'
+include 'sub-1:common',
+        'sub-1:sub-a:common',
+        'sub-1:sub-a:other'

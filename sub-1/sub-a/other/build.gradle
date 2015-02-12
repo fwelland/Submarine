@@ -1,0 +1,12 @@
+apply plugin: 'java'
+archivesBaseName = 'other'
+
+
+dependencies{
+    compile project(':sub-1:common'), 
+            project(':sub-1:sub-a:common')
+            
+}
+
+
+println 'fred says ' + group
